@@ -1,0 +1,57 @@
+@font-face {font-family:"Segoe Script";src:url("segoesc.ttf")}
+h1 {font-family:"Segoe Script";}
+.link {font-family:"Segoe Script";}
+body  {background-attachment:fixed}
+.images 
+{
+	border-style:double
+}
+.content
+{
+	Background-color: rgba(173, 57, 22, 0)
+}
+#type 
+{
+	display:"inline";
+	padding-top:0px;
+	padding-left:0px;
+}
+#links 
+{
+	position:absolute;
+	top:25px;
+	right:10px;
+	font-size:25px;
+	width:1000px;
+}
+#frame1 
+{
+	position:absolute;
+	left:0px;
+}
+#h2 
+{
+	position:absolute;
+	top:140px;
+	left:10px
+}
+#pre1 
+{
+	position:absolute;
+	top:200px;
+	left:5px;
+	font-family:Arial;
+	size:5
+}
+h1 
+{
+	box-shadow: 6px 6px 6px 2px black;
+}
+.navbar navbar-default
+{
+Background-color: rgba(173, 57, 22, 0)
+}
+#navbar-1
+{
+text-align: center
+}
